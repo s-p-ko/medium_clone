@@ -7,16 +7,16 @@ import { CurrentUserProvider } from 'contexts/currentUser'
 import CurrentUserChecker from 'components/currentUserChecker'
 
 function App() {
-  return (
-    <CurrentUserProvider>
-      <CurrentUserChecker>
-        <Router>
-          <TopBar />
-          <Routes />
-        </Router>
-      </CurrentUserChecker>
-    </CurrentUserProvider>
-  )
+    return (
+        <CurrentUserProvider>
+            <CurrentUserChecker>
+                <Router>
+                    <TopBar />
+                    <Routes />
+                </Router>
+            </CurrentUserChecker>
+        </CurrentUserProvider>
+    )
 }
 
 export default App;
