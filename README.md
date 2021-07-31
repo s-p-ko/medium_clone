@@ -12,7 +12,7 @@
 
 ## Here I attempt to refine or complete this clone.
 
-## This is clone version is deployed by using [cloudflare pages here](https://medium-clone.pages.dev/)
+## This clone version is deployed by using [cloudflare pages here](https://medium-clone.pages.dev/)
 
 ## What it has done:
 
