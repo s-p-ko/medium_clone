@@ -12,7 +12,7 @@
 
 ## Here I attempt to refine or complete this clone.
 
-## This clone version is deployed by using [cloudflare pages here](https://medium-clone.pages.dev/)
+## This clone version is deployed by using [cloudflare pages here*](https://medium-clone.pages.dev/)
 
 ## What it has done:
 
@@ -26,6 +26,12 @@
 - Fixed a problem with changing user profile page according clicked user (for example, when we clicked a profile name, the list of articles have been stayed from the previous user and could change only after manually refreshing the page).
 - Fixed issue with likes and canceling likes. Hitherto any user could like others and his own posts. After solving the problem: an unauthorized user cannot like/cancel like for any article; an authorized user can like/cancel like only for other users’ articles, not own ones and can see the number of likes for own articles.
 
-## See intermediate result [here](https://medium-clone.pages.dev/)
+## See intermediate result [here*](https://medium-clone.pages.dev/)
 
 ### To be continued...
+
+---
+
+#### *Sometimes there is such problem with CORS policy, so attempt visit site later
+
+![Application](/img/pic-1.png?raw=true)
