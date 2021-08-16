@@ -28,8 +28,6 @@
 
 ## See intermediate result [here*](https://medium-clone.pages.dev/)
 
-### To be continued...
-
 ---
 
 #### *Sometimes there is such problem with CORS policy, so attempt visit site later
