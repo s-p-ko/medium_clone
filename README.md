@@ -33,3 +33,5 @@
 #### *Sometimes there is such problem with CORS policy, so attempt visit site later
 
 ![Application](/img/pic-1.png?raw=true)
+
+## _Note (Oct 14, 2021): Because of [API Limitations](https://gothinkster.github.io/realworld/docs/specs/frontend-specs/api/#api-limitations) part of functionality of the app cannot be demonstrated_
