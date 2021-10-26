@@ -10,7 +10,7 @@
 
 ---
 
-## Here is my attemption to refine or complete this app.
+## This repo is my attemption to refine the above app.
 
 ## The app is deployed by [cloudflare pages*](https://medium-clone.pages.dev/)
 
