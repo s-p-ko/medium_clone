@@ -10,9 +10,9 @@
 
 ---
 
-## Here I attempt to refine or complete this clone.
+## Here I attempt to refine or complete this app.
 
-## This clone version is deployed by using [cloudflare pages here*](https://medium-clone.pages.dev/)
+## This app is deployed by [cloudflare pages*](https://medium-clone.pages.dev/)
 
 ## What it has done:
 
