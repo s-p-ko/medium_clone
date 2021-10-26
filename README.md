@@ -4,15 +4,15 @@
 
 ---
 
-## This clone is based on React and was begin during studying course [[Oleksandr Kocherhin] React Hooks – Writing Real Project [RUS, 2019]](https://www.udemy.com/course/react-hooks-writing-real-project/). The result is deployed [here](https://medium-clone-start.pages.dev/) and its repo is [here](https://github.com/s-p-ko/medium_clone_start)
+## This app is based on React and was begin during studying course [[Oleksandr Kocherhin] React Hooks – Writing Real Project [RUS, 2019]](https://www.udemy.com/course/react-hooks-writing-real-project/). The result is deployed [here](https://medium-clone-start.pages.dev/) and its repo is [here](https://github.com/s-p-ko/medium_clone_start)
 
 ---
 
 ---
 
-## Here I attempt to refine or complete this app.
+## Here is my attemption to refine or complete this app.
 
-## This app is deployed by [cloudflare pages*](https://medium-clone.pages.dev/)
+## The app is deployed by [cloudflare pages*](https://medium-clone.pages.dev/)
 
 ## What it has done:
 
