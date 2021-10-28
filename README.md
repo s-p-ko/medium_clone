@@ -10,7 +10,7 @@
 
 
 
-## Here is my attempt to finish the above training app according the tasks which were added in the end of course. [demo\*](https://medium-clone.pages.dev/)
+## Here is my attempt to finish the above training app according the tasks which were added in the end of the course. [demo\*](https://medium-clone.pages.dev/)
 
 ## What it has done:
 
